@@ -1,6 +1,6 @@
 version: "3.9"
 
-services: 
+services:
   adguardhome:
     image: adguard/adguardhome:latest
     container_name: adguardhome
